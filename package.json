@@ -1,0 +1,25 @@
+{
+  "name": "simple-todo",
+  "version": "0.1.0",
+  "description": "Simple TODO app using NestJS, React and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eblokhin/simple-todo.git"
+  },
+  "keywords": [
+    "NestJS",
+    "React",
+    "Tailwind",
+    "Mongo"
+  ],
+  "author": "Eugene Blokhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eblokhin/simple-todo/issues"
+  },
+  "homepage": "https://github.com/eblokhin/simple-todo#readme"
+}
